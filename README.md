@@ -1,5 +1,5 @@
+<p align="center">
 <Strong>📧Email📧</Strong><br>luna2080@naver.com<br>
-
 </p>
 
 <br>
@@ -7,7 +7,7 @@
 <p align="center">
 반갑습니다.<br>
 제 이름은 박향훈이고 프론트엔드를 공부하고 있어요!<br>
-현재 쿠팡에 재직중이며 뭐든 배우려는 자세로 틈틈히 공부중입니다.<br>
+현재 쿠팡에 재직중이며 무엇이든 배우려는 자세로 틈틈히 공부중입니다.<br>
 <br>
 
 <p align="center">
